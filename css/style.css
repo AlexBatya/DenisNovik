@@ -364,6 +364,9 @@ footer .footer__body__container small {
     width: 100%;
     display: inline;
   }
+  main .main__body__container .scils {
+    margin: 91px 0 0 0;
+  }
 }
 @media (max-width: 470px) {
   main .main__body__container .scils .apps {

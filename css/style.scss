@@ -409,7 +409,15 @@ footer{
             }
         }
     }
-    
+    main{
+        .main__body{
+            &__container{
+                .scils{
+                    margin: 91px 0 0 0;
+                }
+            }
+        }
+    }
 }
 
 @media(max-width: 470px){
